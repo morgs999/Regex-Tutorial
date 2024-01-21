@@ -1,4 +1,4 @@
-# Regex Tutorial Starter Code
+# Regex Tutorial
 
 ## Description
 This repo contains a link to the Github Gist I produced to document a regex tutorial.
